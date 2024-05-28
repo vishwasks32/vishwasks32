@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm ### Vishwas K Singh
+I'm Vishwas K Singh
 
 Technologist with experience in Cloud Engineering, Consulting, Software Development, and Education
 Skilled in Java (Spring, Hibernate), MERN Stack, Python, SQL, Scripting, Databases

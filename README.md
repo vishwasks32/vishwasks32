@@ -35,8 +35,6 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * iTEAS (Worked on multiple features like trainers mapping, trainers' profile and deployed it on AWS in serverless architecture)​
 * Employee Contact Management( end to end portal for contacts management)
 
-
-You can add a list of your personal projects here, including links to their repositories.
 <!--
 **vishwasks32/vishwasks32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

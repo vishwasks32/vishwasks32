@@ -4,6 +4,7 @@ I'm Vishwas K Singh
 Technologist with experience in Cloud Engineering, Consulting, Software Development, and Education
 Skilled in Java (Spring, Hibernate), MERN Stack, Python, SQL, Scripting, Databases
 Expertise in Automation, Information Security, Data Analysis, Cloud Computing, and Agile Methodology
+
 ## Experience
 * CloudThat ( Feb 2023 - Present )
 * Finmaxtech LLC ( Nov 2022 - Feb 2023 )
@@ -12,19 +13,19 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * Classe365 ( Sep 2018 - Oct 2019 )
 * Yavik Technologies ( Jul 2015 - Mar 2016 )
 * Tech Mahindra ( Dec 2013 - Jul 2015 )
+
 ## Skills
-* Java (Spring, Hibernate)
+* Java (JDBC, Servlets, JSP, Spring, Hibernate)
 * MERN Stack
-* Python
-* SQL
-* Scripting
-* Databases
+* Python ( Numpy, Pandas, Matplotlib, Seaborn, Django, Flask)
+* Scripting ( Bash, python)
+* Databases ( MySQL, MariaDB, MS-SQL )
 * Automation
 * Information Security
 * Data Analysis
 * Cloud Computing
 * Agile Methodology
-  
+
 ## Education
 * M.Tech in DECS ( VTU, CPGS Mysuru, 2018 )
 * B.E. in E&C ( VVCE, Mysuru, 2013 )

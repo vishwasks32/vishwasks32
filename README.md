@@ -31,12 +31,12 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * B.E. in E&C ( VVCE, Mysuru, 2013 )
 
 ## Projects
-* E-Learn (Developed end to end frontend for learning management portal and deployed it on AWS as well as on GCP)
-* Data Analytics and Visualization for Telecom Company, Logistics Company ( Python, numpy, pandas, matplotlib, seaborn)
-* iTEAS (Worked on multiple features like trainers mapping, trainers' profile and deployed it on AWS in serverless architecture)​
-* Employee Contact Management( end to end portal for contacts management)
-* Complaints Management and Tracker ( A PHP app with mysql backend)
-* Fleet Management System ( A Django app with mysql backend)
+* __E-Learn__ (Developed end to end frontend for learning management portal and deployed it on AWS as well as on GCP)
+* __Data Analytics and Visualization for Telecom Company, Logistics Company__ ( Python, numpy, pandas, matplotlib, seaborn)
+* __iTEAS__ (Worked on multiple features like trainers mapping, trainers' profile and deployed it on AWS in serverless architecture)​
+* __Employee Contact Management__ ( end to end portal for contacts management)
+* __Complaints Management and Tracker__ ( A PHP app with mysql backend)
+* __Fleet Management System__ ( A Django app with mysql backend)
 
 <!--
 **vishwasks32/vishwasks32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

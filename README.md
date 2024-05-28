@@ -35,6 +35,8 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * Data Analytics and Visualization for Telecom Company, Logistics Company ( Python, numpy, pandas, matplotlib, seaborn)
 * iTEAS (Worked on multiple features like trainers mapping, trainers' profile and deployed it on AWS in serverless architecture)​
 * Employee Contact Management( end to end portal for contacts management)
+* Complaints Management and Tracker ( A PHP app with mysql backend)
+* Fleet Management System ( A Django app with mysql backend)
 
 <!--
 **vishwasks32/vishwasks32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,6 +34,8 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * __E-Learn__ (Developed end to end frontend for learning management portal and deployed it on AWS as well as on GCP)
 * __Data Analytics and Visualization for Telecom Company, Logistics Company__ ( Python, numpy, pandas, matplotlib, seaborn)
 * __iTEAS__ (Worked on multiple features like trainers mapping, trainers' profile and deployed it on AWS in serverless architecture)​
+* __Cost Optimization on AWS using Lambda - Serverless Model__ ( Developed Lambda Function to identify and delete EBS snapshots not associated with active EC2 instances, optimizing storage costs. Fetched lists of EBS snapshots and active EC2 instances, ensuring cost optimization. )
+* __Python Script for Automation of AWS Management__ ( Developed Python scripts to manage AWS resources)
 * __Employee Contact Management__ ( end to end portal for contacts management)
 * __Complaints Management and Tracker__ ( A PHP app with mysql backend)
 * __Fleet Management System__ ( A Django app with mysql backend)

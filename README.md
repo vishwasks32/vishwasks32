@@ -1,29 +1,29 @@
 ## Hi there 👋
 I'm Vishwas K Singh
 
-Technologist with experience in Cloud Engineering, Consulting, Software Development, and Education
-Skilled in Java (Spring, Hibernate), MERN Stack, Python, SQL, Scripting, Databases
+Technologist with experience in Cloud Engineering, Consulting, Software Development, and Education.
+Skilled in Java (JavaSE, JDBC, Servlets, JSP, Spring, Hibernate), MERN Stack, MEAN, Python Scripting, Databases - Mysql, PostgreSQL, MS SQL, MongoDB, Redis.
 Expertise in Automation, Information Security, Data Analysis, Cloud Computing, and Agile Methodology
 
 ## Experience
-* CloudThat ( Feb 2023 - Present )
-* Finmaxtech LLC ( Nov 2022 - Feb 2023 )
-* Vidyavardhaka College of Engineering ( Aug 2020 - Oct 2022 )
-* Visvesvaraya Technological University ( Oct 2019 - Jan 2020 )
-* Classe365 ( Sep 2018 - Oct 2019 )
-* Yavik Technologies ( Jul 2015 - Mar 2016 )
-* Tech Mahindra ( Dec 2013 - Jul 2015 )
+* CloudThat ( Feb 2023 - Present, Domain: Training & Consulting - EdTech )
+* Finmaxtech LLC ( Nov 2022 - Feb 2023, Domain: FinTech Software Development )
+* Vidyavardhaka College of Engineering ( Aug 2020 - Oct 2022, Domain: Education )
+* Visvesvaraya Technological University ( Oct 2019 - Jan 2020, Domain: Education )
+* Classe365 ( Sep 2018 - Oct 2019, Doamin: EdTech Software Development )
+* Yavik Technologies ( Jul 2015 - Mar 2016, Domain: Logistics Software Development )
+* Tech Mahindra ( Dec 2013 - Jul 2015, Domain: Infrastructure Management Software Development )
 
 ## Skills
 * Java (JDBC, Servlets, JSP, Spring, Hibernate)
-* MERN Stack
+* MERN Stack, MEAN Stack, NextJS
 * Python ( Numpy, Pandas, Matplotlib, Seaborn, Django, Flask)
 * Scripting ( Bash, python)
-* Databases ( MySQL, MariaDB, MS-SQL )
+* Databases ( MySQL, MariaDB, MS-SQL, Postgresql )
 * Automation
 * Information Security
 * Data Analysis
-* Cloud Computing
+* Cloud Computing ( AWS, GCP )
 * Agile Methodology
 
 ## Education

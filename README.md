@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
+  <div align="center">
+  <img src="https://github.com/vishwasks32/vishwasks32/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="750" height="300"/>
+</div>
+    <div id="badges">
   <a href="https://www.linkedin.com/in/singhvishwas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,10 +12,21 @@
   <a href="https://x.com/vishwasks32">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://leetcode.com/u/vishwasks32/">
+    <img src="https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/vishwasksingh/">
+    <img src="https://img.shields.io/badge/Geeksforgeeks-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://t.me/singhvishwas">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=vishwasks32&style=flat-square&color=blue" alt=""/>
+
 </div>
-## Hi there 👋
+
+## Hi there 👋    
+
 I'm Vishwas K Singh
 
 Technologist with experience in Cloud Engineering, Consulting, Software Development, and Education.
@@ -34,15 +43,24 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * Tech Mahindra ( Dec 2013 - Jul 2015, Domain: Infrastructure Management Software Development )
 
 ## Skills
-* Java (JDBC, Servlets, JSP, Spring, Hibernate)
-* MERN Stack, MEAN Stack, NextJS
-* Python ( Numpy, Pandas, Matplotlib, Seaborn, Django, Flask)
-* Scripting ( Bash, python)
-* Databases ( MySQL, MariaDB, MS-SQL, Postgresql )
-* Automation
+### Programming Languages & Frameworks:
+* <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/> (JDBC, Servlets, JSP), Spring, Hibernate)
+* <img src="https://img.shields.io/badge/Spring?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
+* JavaScript Frameworks: (MERN Stack, MEAN Stack, NextJS)
+* Python: (Numpy, Pandas, Matplotlib, Seaborn, Django, Flask)
+* Scripting: (Bash, Python)
+### Databases:
+* Relational Databases: (MySQL, MariaDB, MS-SQL, PostgreSQL)
+* NoSQL Databases: (MongoDB, Redis)
+### Mobile Development:
+* Flutter
+### APIs & Data Protocols:
+* GraphQL
+### Other:
+* Automation Tools: Jira, Jenkins
 * Information Security
 * Data Analysis
-* Cloud Computing ( AWS, GCP )
+* Cloud Computing (AWS, GCP)
 * Agile Methodology
 
 ## Education

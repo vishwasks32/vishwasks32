@@ -1,3 +1,22 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/singhvishwas/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://singhvishwas.wordpress.com/">
+    <img src="https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
+  </a>
+  <a href="https://x.com/vishwasks32">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=vishwasks32&style=flat-square&color=blue" alt=""/>
+</div>
 ## Hi there 👋
 I'm Vishwas K Singh
 

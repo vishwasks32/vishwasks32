@@ -44,26 +44,9 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 
 ## Skills 
 
-<a href="http://vishwebassets.s3-website-us-east-1.amazonaws.com/" target="_blank">Wall of Skills</a>
-
-### Programming Languages & Frameworks:
-* Java (JDBC, Servlets, JSP), Spring, Hibernate)
-* JavaScript Frameworks: (MERN Stack, MEAN Stack, NextJS)
-* Python: (Numpy, Pandas, Matplotlib, Seaborn, Django, Flask)
-* Scripting: (Bash, Python)
-### Databases:
-* Relational Databases: (MySQL, MariaDB, MS-SQL, PostgreSQL)
-* NoSQL Databases: (MongoDB, Redis)
-### Mobile Development:
-* Flutter
-### APIs & Data Protocols:
-* GraphQL
-### Other:
-* Automation Tools: Jira, Jenkins
-* Information Security
-* Data Analysis
-* Cloud Computing (AWS, GCP)
-* Agile Methodology
+<a href="http://vishwebassets.s3-website-us-east-1.amazonaws.com/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Wall%20Of%20Skills-20B2AA" />
+</a>
 
 ## Education
 * M.Tech in DECS ( VTU, CPGS Mysuru, 2018 )

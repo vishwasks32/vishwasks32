@@ -42,7 +42,10 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 * Yavik Technologies ( Jul 2015 - Mar 2016, Domain: Logistics Software Development )
 * Tech Mahindra ( Dec 2013 - Jul 2015, Domain: Infrastructure Management Software Development )
 
-## Skills - [Wall of Skills](http://vishwebassets.s3-website-us-east-1.amazonaws.com/)
+## Skills 
+
+<a href="http://vishwebassets.s3-website-us-east-1.amazonaws.com/" target="_blank">Wall of Skills</a>
+
 ### Programming Languages & Frameworks:
 * Java (JDBC, Servlets, JSP), Spring, Hibernate)
 * JavaScript Frameworks: (MERN Stack, MEAN Stack, NextJS)

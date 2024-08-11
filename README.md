@@ -47,7 +47,7 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 <a href="http://vishwebassets.s3-website-us-east-1.amazonaws.com/">
   <img alt="Static Badge" src="https://img.shields.io/badge/Wall%20Of%20Skills-20B2AA" />
 </a>
-
+<br>
 <a href="https://learn.microsoft.com/en-us/users/vishwasksingh-3717/transcript/dwnw5f5g523j93r">
 MS Transcript
 </a>

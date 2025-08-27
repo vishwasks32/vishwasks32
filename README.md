@@ -30,7 +30,7 @@
 I'm Vishwas K Singh
 
 Technologist with experience in Cloud Engineering, Consulting, Software Development, and Education.
-Skilled in Java (JavaSE, JDBC, Servlets, JSP, Spring, Hibernate), MERN Stack, MEAN, Python Scripting, Databases - Mysql, PostgreSQL, MS SQL, MongoDB, Redis.
+Skilled in Java (JavaSE, JDBC, Servlets, JSP, Spring, Hibernate), MERN Stack, MEAN, Python - Scripting, Automation, Data Analytics(numpy/pandas/matplotlib) & Web(Flask/Django), Databases - Mysql, PostgreSQL, MS SQL, MongoDB, Redis.
 Expertise in Automation, Information Security, Data Analysis, Cloud Computing, and Agile Methodology
 
 ## Experience

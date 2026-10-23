@@ -44,8 +44,11 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 
 ## Skills 
 
-<a href="http://singhvishwas.me.s3-website-us-east-1.amazonaws.com">
+<!-- <a href="http://singhvishwas.me.s3-website-us-east-1.amazonaws.com">
   <img alt="Static Badge" src="https://img.shields.io/badge/Wall%20Of%20Skills-20B2AA" />
+</a> -->
+<a href="https://www.credly.com/users/vishwas-k-singh">
+  Credly
 </a>
 <br>
 <a href="https://learn.microsoft.com/en-us/users/vishwasksingh-3717/transcript/dwnw5f5g523j93r">

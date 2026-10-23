@@ -51,6 +51,10 @@ Expertise in Automation, Information Security, Data Analysis, Cloud Computing, a
 <a href="https://learn.microsoft.com/en-us/users/vishwasksingh-3717/transcript/dwnw5f5g523j93r">
 MS Transcript
 </a>
+<br>
+<a href="https://skillsprofile.skillbuilder.aws/user/vishwasks32/certification-badges">
+  AWS Skill Builder
+</a>
 
 ## Education
 * M.Tech in DECS ( VTU, CPGS Mysuru, 2018 )
